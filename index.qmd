@@ -1,0 +1,18 @@
+---
+title: "Ian Zablon Owuor"
+image: profile_pic.jpg
+about:
+  template: jolla
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://x.com/mtunuksi
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/ian-zablon-435170236/
+    - icon: github
+      text: Github
+      href: https://github.com/mtunuksi
+---
+
+I’m an Industrial Chemist and Data Analyst with a passion for uncovering insights through science and data. With hands-on experience in laboratory research and advanced data management, I’ve worked on impactful projects, including roles at PBORA and as a freelance data analyst. My expertise spans chemical analysis, data visualization, and leveraging tools like R to solve complex problems. I’m driven by curiosity, precision, and a commitment to making a difference through innovative solutions. Welcome to my corner of the web, where I share my journey and expertise!

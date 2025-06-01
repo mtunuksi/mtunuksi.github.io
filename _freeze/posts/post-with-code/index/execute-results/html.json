@@ -1,0 +1,15 @@
+{
+  "hash": "afdfeb7e2f27fe4124368b13f3a547d6",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Effect of Government policy on the Nigerian population growth\"\nauthor: \"Ian Zablon Owuor\"\ndate: \"2025-06-01\"\ncategories: [news, code, analysis, r]\nimage: \"image.jpg\"\n---\n\n\n\nThis was a project using DHS data. You can find the project [here](https://media.licdn.com/dms/document/media/v2/D4D2DAQGfoaBWoKao8A/profile-treasury-document-pdf-analyzed/profile-treasury-document-pdf-analyzed/0/1697569944432?e=1749686400&v=beta&t=9Udq9IWv7f3PtsWmLgvNS3QgPYuoHBPmIHWkASqWu1Y){target=\"_blank\"}\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
