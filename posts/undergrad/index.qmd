@@ -6,4 +6,4 @@ categories: [analysis]
 image: "laboratory.jpg"
 ---
 
-Dive into My Food Safety Quest: Decoding Sodium Metabisulfite Levels in Kakamega’s Bustling Meat Markets with Cutting-Edge UV-Vis and Monier-Williams Techniques—Explore the Insights Now! [here](https://drive.google.com/drive/u/0/home){target="_blank"}
+Dive into My Food Safety Quest: Decoding Sodium Metabisulfite Levels in Kakamega’s Bustling Meat Markets with Cutting-Edge UV-Vis and Monier-Williams Techniques—Explore the Insights Now! [here](https://docs.google.com/document/d/1UvPVEKrmtSPG3-F7GNjjJK9gLx7B8HRFRqjyIhTRPSs/edit?tab=t.0){target="_blank"}

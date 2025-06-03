@@ -8,11 +8,10 @@ format:
     self-contained: true
 ---
 
-
 <iframe src="ian_zablon.cert.pdf" height=100% width=100%>
 
-
-::: {.cv-section}
+::: cv-section
 ### Education
+
 ...
 :::
