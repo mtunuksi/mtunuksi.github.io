@@ -12,6 +12,8 @@ website:
         file: portfolio.qmd
       - text: "CV"
         file: CV.qmd
+      - text: "Certificates"
+        file: certificates.qmd
     right:
       - about.qmd
       - icon: github

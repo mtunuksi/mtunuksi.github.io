@@ -1,0 +1,18 @@
+---
+title: "BSc. Industrial Chemistry Cerificate"
+subtitle: "Awarded on 20th August 2021"
+page-layout: full
+css: styles.css
+format:
+  html:
+    self-contained: true
+---
+
+
+<iframe src="ian_zablon.cert.pdf" height=100% width=100%>
+
+
+::: {.cv-section}
+### Education
+...
+:::
