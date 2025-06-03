@@ -1,1 +1,18 @@
+---
+title: "Curriculum Vitae"
+subtitle: "Ian Zablon - Industrial Chemist & Data Analyst"
+page-layout: full
+css: styles.css
+format:
+  html:
+    self-contained: true
+---
+
+
 <iframe src="ian_zablon_acad_cv.pdf" height=100% width=100%>
+
+
+::: {.cv-section}
+### Education
+...
+:::

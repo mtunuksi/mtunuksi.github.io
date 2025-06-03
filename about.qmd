@@ -1,6 +1,6 @@
 ---
 title: "About"
-image: profile.jpg
+image: profile_pic.jpg
 about:
   template: jolla
   links:
@@ -15,4 +15,6 @@ about:
       href: https://github.com
 ---
 
-About this blog
+## Ian Zablon.
+
+I’m an Industrial Chemist and Data Analyst passionate about transforming science into actionable insights for Kenyan industries and beyond. With experience at PBORA and as a freelance data analyst, I specialize in chemical analysis, data visualization, and leveraging tools like R to solve complex problems. Whether it’s optimizing manufacturing processes or uncovering trends in datasets, I’m driven to make a tangible impact. Outside of work, I’m inspired by Kenya’s vibrant innovation scene and enjoy exploring data-driven solutions for local challenges.

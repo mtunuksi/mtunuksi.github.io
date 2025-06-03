@@ -13,6 +13,9 @@ about:
     - icon: github
       text: Github
       href: https://github.com/mtunuksi
+    - icon: envelope
+      text: Email
+      href: mailto:ianzablon2040@gmail.com
 ---
 
 I’m an Industrial Chemist and Data Analyst with a passion for uncovering insights through science and data. With hands-on experience in laboratory research and advanced data management, I’ve worked on impactful projects, including roles at PBORA and as a freelance data analyst. My expertise spans chemical analysis, data visualization, and leveraging tools like R to solve complex problems. I’m driven by curiosity, precision, and a commitment to making a difference through innovative solutions. Welcome to my corner of the web, where I share my journey and expertise!
