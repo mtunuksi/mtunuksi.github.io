@@ -25,5 +25,5 @@ format:
     theme: yaml-gray-theme
     css: styles.css
 
-editor: visual      
+editor: visual     
 
