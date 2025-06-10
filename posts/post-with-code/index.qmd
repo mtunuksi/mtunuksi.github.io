@@ -1,5 +1,5 @@
 ---
-title: "Effect of Government policy on the Nigerian population growth"
+title: "Effect of Government policy on the Nigerian population growth Analysis Using R"
 author: "Ian Zablon Owuor"
 date: "2024-12-10"
 categories: [news, code, analysis]
