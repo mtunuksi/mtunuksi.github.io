@@ -1,9 +1,9 @@
 ---
 title: "Effect of Government policy on the Nigerian population growth"
 author: "Ian Zablon Owuor"
-date: "2025-06-01"
+date: "2024-12-10"
 categories: [news, code, analysis]
-image: "image.jpg"
+image: "nigeria.jpg"
 ---
 
 Discover My DHS Data Project: Unveiling Actionable Insights Through Advanced Analysis—Check It Out [here](https://media.licdn.com/dms/document/media/v2/D4D2DAQGfoaBWoKao8A/profile-treasury-document-pdf-analyzed/profile-treasury-document-pdf-analyzed/0/1697569944432?e=1749686400&v=beta&t=9Udq9IWv7f3PtsWmLgvNS3QgPYuoHBPmIHWkASqWu1Y){target="_blank"}

@@ -1,7 +1,7 @@
 ---
 title: "Determination of Sodium Metabisulfite preservative levels in Meat and Meat products in Kakamega Town using Ultraviolet-Visible method and the Monier-williams Experiment"
 author: "Ian Zablon Owuor"
-date: "2025-06-01"
+date: "2024-06-15"
 categories: [analysis]
 image: "laboratory.jpg"
 ---
