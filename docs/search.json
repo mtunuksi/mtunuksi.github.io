@@ -32,7 +32,7 @@
     "href": "portfolio.html",
     "title": "My Portfolio",
     "section": "",
-    "text": "Quality of Red Wine Prediction using R\n\n\n\n\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nFeb 17, 2025\n\n\nIan Zablon Owuor\n\n\n\n\n\n\n\n\n\n\n\n\nEffect of Government policy on the Nigerian population growth Analysis Using R\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nDec 10, 2024\n\n\nIan Zablon Owuor\n\n\n\n\n\n\n\n\n\n\n\n\nDetermination of Sodium Metabisulfite preservative levels in Meat and Meat products in Kakamega Town using Ultraviolet-Visible method and the Monier-williams Experiment\n\n\n\n\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nJun 15, 2024\n\n\nIan Zablon Owuor\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nMay 29, 2024\n\n\nIan Zablon Owuor\n\n\n\n\n\n\nNo matching items"
+    "text": "Welcome to the Life Expectancy Dashboard using Quarto-Markdown!\n\n\n\n\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nJun 17, 2025\n\n\nIan Zablon Owuor\n\n\n\n\n\n\n\n\n\n\n\n\nQuality of Red Wine Prediction using R\n\n\n\n\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nFeb 17, 2025\n\n\nIan Zablon Owuor\n\n\n\n\n\n\n\n\n\n\n\n\nEffect of Government policy on the Nigerian population growth Analysis Using R\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nDec 10, 2024\n\n\nIan Zablon Owuor\n\n\n\n\n\n\n\n\n\n\n\n\nDetermination of Sodium Metabisulfite preservative levels in Meat and Meat products in Kakamega Town using Ultraviolet-Visible method and the Monier-williams Experiment\n\n\n\n\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nJun 15, 2024\n\n\nIan Zablon Owuor\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nMay 29, 2024\n\n\nIan Zablon Owuor\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/welcome/index.html",
@@ -75,5 +75,12 @@
     "title": "Quality of Red Wine Prediction using R",
     "section": "",
     "text": "Welcome to my analysis of red wine quality prediction using R. This project explores the relationship between physicochemical properties, such as fixed acidity and alcohol content, and sensory quality ratings, leveraging advanced data analysis techniques in R. As an Industrial Chemist with a passion for data-driven quality control, I aim to provide actionable insights for winemakers and quality assurance professionals. Explore this project to see how I combine chemical expertise with statistical modeling to predict wine qualityhere"
+  },
+  {
+    "objectID": "posts/dashboard/index.html",
+    "href": "posts/dashboard/index.html",
+    "title": "Welcome to the Life Expectancy Dashboard using Quarto-Markdown!",
+    "section": "",
+    "text": "Dive into the fascinating world of global health with our interactive Life Expectancy Dashboard, powered by the renowned Gapminder dataset! Explore how life expectancy has evolved across countries and continents, uncover trends, and gain insights into the factors shaping our world’s longevity—all at your fingertips with vibrant, easy-to-navigate visualizations.here"
   }
 ]
