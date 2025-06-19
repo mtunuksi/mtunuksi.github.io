@@ -6,4 +6,4 @@ categories: [analysis]
 image: "world.jpg"
 ---
 
-Dive into the fascinating world of global health with our interactive Life Expectancy Dashboard, powered by the renowned Gapminder dataset! Explore how life expectancy has evolved across countries and continents, uncover trends, and gain insights into the factors shaping our world’s longevity—all at your fingertips with vibrant, easy-to-navigate visualizations.[here]()
+Dive into the fascinating world of global health with our interactive Life Expectancy Dashboard, powered by the renowned Gapminder dataset! Explore how life expectancy has evolved across countries and continents, uncover trends, and gain insights into the factors shaping our world’s longevity—all at your fingertips with vibrant, easy-to-navigate visualizations.[here](https://mtunuksi.github.io/gapminder_dash/)
