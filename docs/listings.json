@@ -2,6 +2,7 @@
   {
     "listing": "/portfolio.html",
     "items": [
+      "/posts/fertility_rate/index.html",
       "/posts/dashboard/index.html",
       "/posts/wine/index.html",
       "/posts/post-with-code/index.html",

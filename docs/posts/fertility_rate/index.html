@@ -6,8 +6,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="Ian Zablon Owuor">
+<meta name="dcterms.date" content="2025-06-23">
 
-<title>My Portfolio – Ian Zablon Owuor</title>
+<title>Fertility rate trends Dashboard for Brazil, China and India – Ian Zablon Owuor</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,26 +25,24 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/quarto-html/quarto.js"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -70,77 +70,19 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
 
-    const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
-
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="../../styles.css">
 </head>
 
-<body class="nav-fixed">
+<body class="nav-fixed fullcontent">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top quarto-banner">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">Ian Zablon Owuor</span>
     </a>
   </div>
@@ -151,25 +93,25 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html"> 
+    <a class="nav-link" href="../../index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./portfolio.html" aria-current="page"> 
+    <a class="nav-link" href="../../portfolio.html"> 
 <span class="menu-text">Portfolio</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./CV.html"> 
+    <a class="nav-link" href="../../CV.html"> 
 <span class="menu-text">CV</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./certificates.html"> 
+    <a class="nav-link" href="../../certificates.html"> 
 <span class="menu-text">Certificates</span></a>
   </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./about.html"> 
+    <a class="nav-link" href="../../about.html"> 
 <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item compact">
@@ -193,281 +135,51 @@ window.Quarto = {
 <!-- content -->
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
-    <div class="quarto-title column-page-left">
-      <h1 class="title">My Portfolio</h1>
-                      </div>
+    <div class="quarto-title column-body">
+      <h1 class="title">Fertility rate trends Dashboard for Brazil, China and India</h1>
+                                <div class="quarto-categories">
+                <div class="quarto-category">analysis</div>
+              </div>
+                  </div>
   </div>
     
   
-  <div class="quarto-title-meta column-page-left">
+  <div class="quarto-title-meta">
 
+      <div>
+      <div class="quarto-title-meta-heading">Author</div>
+      <div class="quarto-title-meta-contents">
+               <p>Ian Zablon Owuor </p>
+            </div>
+    </div>
       
+      <div>
+      <div class="quarto-title-meta-heading">Published</div>
+      <div class="quarto-title-meta-contents">
+        <p class="date">June 23, 2025</p>
+      </div>
+    </div>
     
       
     </div>
     
   
-  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(7)</span></div><div class="category" data-category="analysis">analysis <span class="quarto-category-count">(6)</span></div><div class="category" data-category="code">code <span class="quarto-category-count">(1)</span></div><div class="category" data-category="news">news <span class="quarto-category-count">(2)</span></div></div></div>
+    
 <!-- main -->
-<main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
+<main class="content quarto-banner-title-block" id="quarto-document-content">
 
 
 
 
 
+<p>Welcome to my analysis of red wine quality prediction using R. This project explores the relationship between physicochemical properties, such as fixed acidity and alcohol content, and sensory quality ratings, leveraging advanced data analysis techniques in R. As an Industrial Chemist with a passion for data-driven quality control, I aim to provide actionable insights for winemakers and quality assurance professionals. Explore this project to see how I combine chemical expertise with statistical modeling to predict wine quality<a href="https://mtunuksi.github.io/fertility_rate_dashboard/" target="_blank">here</a></p>
 
 
 
-
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="analysis" data-listing-date-sort="1750626000000" data-listing-file-modified-sort="1750666304427" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="77">
-<div class="thumbnail">
-<p><a href="./posts/fertility_rate/index.html" class="no-external"></a></p><a href="./posts/fertility_rate/index.html" class="no-external">
-<p><img loading="lazy" src="./posts/fertility_rate/baby.jpg" class="thumbnail-image"></p>
-</a><p><a href="./posts/fertility_rate/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/fertility_rate/index.html" class="no-external">Fertility rate trends Dashboard for Brazil, China and India</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/fertility_rate/index.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('analysis'); return false;">
-analysis
-</div>
-</div>
-<div class="listing-description">
-<a href="./posts/fertility_rate/index.html" class="no-external">Welcome to my analysis of red wine quality prediction using R. This project explores the relationship between physicochemical properties, such as fixed acidity and alcohol…</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./posts/fertility_rate/index.html" class="no-external">
-<div class="listing-date">
-Jun 23, 2025
-</div>
-<div class="listing-author">
-Ian Zablon Owuor
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-categories="analysis" data-listing-date-sort="1750107600000" data-listing-file-modified-sort="1750357870848" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="49">
-<div class="thumbnail">
-<p><a href="./posts/dashboard/index.html" class="no-external"></a></p><a href="./posts/dashboard/index.html" class="no-external">
-<p><img loading="lazy" src="./posts/dashboard/world.jpg" class="thumbnail-image"></p>
-</a><p><a href="./posts/dashboard/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/dashboard/index.html" class="no-external">Welcome to the Life Expectancy Dashboard using Quarto-Markdown!</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/dashboard/index.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('analysis'); return false;">
-analysis
-</div>
-</div>
-<div class="listing-description">
-<a href="./posts/dashboard/index.html" class="no-external">Dive into the fascinating world of global health with our interactive Life Expectancy Dashboard, powered by the renowned Gapminder dataset! Explore how life expectancy has…</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./posts/dashboard/index.html" class="no-external">
-<div class="listing-date">
-Jun 17, 2025
-</div>
-<div class="listing-author">
-Ian Zablon Owuor
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="2" data-categories="analysis" data-listing-date-sort="1739739600000" data-listing-file-modified-sort="1750425363947" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="77">
-<div class="thumbnail">
-<p><a href="./posts/wine/index.html" class="no-external"></a></p><a href="./posts/wine/index.html" class="no-external">
-<p><img loading="lazy" src="./posts/wine/red_wine.jpg" class="thumbnail-image"></p>
-</a><p><a href="./posts/wine/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/wine/index.html" class="no-external">Quality of Red Wine Prediction using R</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/wine/index.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('analysis'); return false;">
-analysis
-</div>
-</div>
-<div class="listing-description">
-<a href="./posts/wine/index.html" class="no-external">Welcome to my analysis of red wine quality prediction using R. This project explores the relationship between physicochemical properties, such as fixed acidity and alcohol…</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./posts/wine/index.html" class="no-external">
-<div class="listing-date">
-Feb 17, 2025
-</div>
-<div class="listing-author">
-Ian Zablon Owuor
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="3" data-categories="news,code,analysis" data-listing-date-sort="1733778000000" data-listing-file-modified-sort="1750010302548" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="14">
-<div class="thumbnail">
-<p><a href="./posts/post-with-code/index.html" class="no-external"></a></p><a href="./posts/post-with-code/index.html" class="no-external">
-<p><img loading="lazy" src="./posts/post-with-code/nigeria.jpg" class="thumbnail-image"></p>
-</a><p><a href="./posts/post-with-code/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/post-with-code/index.html" class="no-external">Effect of Government policy on the Nigerian population growth Analysis Using R</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/post-with-code/index.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('news'); return false;">
-news
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('code'); return false;">
-code
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('analysis'); return false;">
-analysis
-</div>
-</div>
-<div class="listing-description">
-<a href="./posts/post-with-code/index.html" class="no-external">Discover My DHS Data Project: Unveiling Actionable Insights Through Advanced Analysis—Check It Out here</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./posts/post-with-code/index.html" class="no-external">
-<div class="listing-date">
-Dec 10, 2024
-</div>
-<div class="listing-author">
-Ian Zablon Owuor
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="4" data-categories="analysis" data-listing-date-sort="1727470800000" data-listing-file-modified-sort="1750427056376" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="59">
-<div class="thumbnail">
-<p><a href="./posts/kenya_dhs/index.html" class="no-external"></a></p><a href="./posts/kenya_dhs/index.html" class="no-external">
-<p><img loading="lazy" src="./posts/kenya_dhs/kenya.jpg" class="thumbnail-image"></p>
-</a><p><a href="./posts/kenya_dhs/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/kenya_dhs/index.html" class="no-external">Welcome to the 2018 Kenya Demographic Health Survey Analysis</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/kenya_dhs/index.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('analysis'); return false;">
-analysis
-</div>
-</div>
-<div class="listing-description">
-<a href="./posts/kenya_dhs/index.html" class="no-external">Explore key health and demographic insights from the 2018 Kenya Demographic Health Survey, covering respondents aged 15–49. I have simplified a large dataset by selecting…</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./posts/kenya_dhs/index.html" class="no-external">
-<div class="listing-date">
-Sep 28, 2024
-</div>
-<div class="listing-author">
-Ian Zablon Owuor
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="5" data-categories="analysis" data-listing-date-sort="1718398800000" data-listing-file-modified-sort="1749562608388" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="25">
-<div class="thumbnail">
-<p><a href="./posts/undergrad/index.html" class="no-external"></a></p><a href="./posts/undergrad/index.html" class="no-external">
-<p><img loading="lazy" src="./posts/undergrad/laboratory.jpg" class="thumbnail-image"></p>
-</a><p><a href="./posts/undergrad/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/undergrad/index.html" class="no-external">Determination of Sodium Metabisulfite preservative levels in Meat and Meat products in Kakamega Town using Ultraviolet-Visible method and the Monier-williams Experiment</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/undergrad/index.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('analysis'); return false;">
-analysis
-</div>
-</div>
-<div class="listing-description">
-<a href="./posts/undergrad/index.html" class="no-external">Dive into My Food Safety Quest: Decoding Sodium Metabisulfite Levels in Kakamega’s Bustling Meat Markets with Cutting-Edge UV-Vis and Monier-Williams Techniques—Explore the…</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./posts/undergrad/index.html" class="no-external">
-<div class="listing-date">
-Jun 15, 2024
-</div>
-<div class="listing-author">
-Ian Zablon Owuor
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="6" data-categories="news" data-listing-date-sort="1716930000000" data-listing-file-modified-sort="1749562675235" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="32">
-<div class="thumbnail">
-<p><a href="./posts/welcome/index.html" class="no-external"></a></p><a href="./posts/welcome/index.html" class="no-external">
-<p class="card-img-top"><img src="posts\welcome\thumbnail.jpg"  class="thumbnail-image card-img"/></p>
-</a><p><a href="./posts/welcome/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/welcome/index.html" class="no-external">Welcome To My Blog</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./posts/welcome/index.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('news'); return false;">
-news
-</div>
-</div>
-<div class="listing-description">
-<a href="./posts/welcome/index.html" class="no-external">This is the first post in a Quarto blog. Welcome!</a>
-</div>
-</div>
-<div class="metadata">
-<a href="./posts/welcome/index.html" class="no-external">
-<div class="listing-date">
-May 29, 2024
-</div>
-<div class="listing-author">
-Ian Zablon Owuor
-</div>
-</a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

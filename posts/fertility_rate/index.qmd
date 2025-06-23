@@ -1,0 +1,9 @@
+---
+title: "Fertility rate trends Dashboard for Brazil, China and India"
+author: "Ian Zablon Owuor"
+date: "2025-06-23"
+categories: [analysis]
+image: "baby.jpg"
+---
+
+Welcome to my analysis of fertility rate trends in India, China, and Brazil. This dashboard explores how fertility rates, measured as births per woman, have evolved over time in these key global economies. Dive into an interactive table of global fertility data, a timelapse animation, and a line plot comparing trends across Brazil, China, and India, inspired by Gapminder’s data visualization approach.[here](https://mtunuksi.github.io/fertility_rate_dashboard/){target="_blank"}
