@@ -1,5 +1,5 @@
 ---
-title: "BSc. Industrial Chemistry Cerificate"
+title: "BSc. Industrial Chemistry Certificate"
 subtitle: "Awarded on 20th August 2021"
 page-layout: full
 css: styles.css
