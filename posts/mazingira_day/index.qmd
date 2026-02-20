@@ -1,0 +1,48 @@
+---
+title: "Mazingira Day: Celebrating Kenya's Environment"
+author: "Ian Zablon Owuor"
+date: "2026-02-20"
+categories: [news, environment]
+image: "mazingira1.jpg"
+description: "Celebrating World Environment Day (Mazingira Day) and Kenya's commitment to environmental conservation."
+---
+
+## What is Mazingira Day?
+
+Mazingira Day, celebrated every **June 5th**, coincides with World Environment 
+Day. In Kenya, it is a national holiday dedicated to environmental conservation, 
+tree planting, and raising awareness about our natural heritage. 
+
+![Children planting trees during Mazingira Day](imagesmazingira-day-cover.jpeg)
+
+## Why It Matters
+
+Kenya's environment faces threats from deforestation, pollution, and climate 
+change. Mazingira Day brings communities together to take action through...
+
+![Community clean-up exercise](group_1.jpeg)
+![Group selfie with my collegues before tree planting](sam_1.jpeg)
+![Planting tree during the Mzaingira day](ian_pic.jpeg)
+![Photos](sam_2.jpeg)
+
+
+
+## How You Can Participate
+
+- Plant a tree in your compound or local park
+- Join a community clean-up drive
+- Reduce plastic use in your daily life
+- Educate others about environmental conservation
+```
+
+## Step 2: Add your images
+
+Place your images (`mazingira1.jpg`, `mazingira2.jpg`, etc.) inside the same `posts/mazingira-day/` folder.
+
+## Folder structure should look like:
+```
+posts/
+  mazingira-day/
+    index.qmd
+    mazingira1.jpg
+    mazingira2.jpg
