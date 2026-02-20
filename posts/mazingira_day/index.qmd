@@ -9,23 +9,26 @@ description: "Celebrating World Environment Day (Mazingira Day) and Kenya's comm
 
 ## What is Mazingira Day?
 
-Mazingira Day, celebrated every **June 5th**, coincides with World Environment 
+Mazingira Day, celebrated every **October 10th**, coincides with World Environment 
 Day. In Kenya, it is a national holiday dedicated to environmental conservation, 
-tree planting, and raising awareness about our natural heritage. 
+tree planting, and raising awareness about our natural heritage.
 
-![Children planting trees during Mazingira Day](imagesmazingira-day-cover.jpeg)
+On **October 10th, 2025**, PBORA partnered with **Hatch Technologies**, a local environmental NGO, to host a full-day Mazingira Day celebration that brought together community members, professionals, and youth volunteers. The event kicked off with an inspiring opening ceremony where representatives from both organizations spoke on the urgency of environmental conservation in Kenya, followed by a large-scale tree planting drive where participants planted over 150 indigenous seedlings — including Mukau, Croton, and Acacia — across a designated green belt. In the afternoon, teams fanned out across the neighborhood for a community clean-up exercise. The day closed with an environmental education forum featuring talks on climate change, citizen science, and sustainable living. It was a powerful reminder that lasting environmental change happens when science, technology, and community come together — and PBORA and Hatch Technologies proved exactly that.
+
+![Group Photo Before Embaking on Tree Planting](imagesmazingira-day-cover.jpeg)
 
 ## Why It Matters
 
 Kenya's environment faces threats from deforestation, pollution, and climate 
-change. Mazingira Day brings communities together to take action through...
+change. Mazingira Day brings communities together to take action through activities like planting trees, cleaning the environment by picking garbage and disponsing them at the desinated places.
 
-![Community clean-up exercise](group_1.jpeg)
-![Group selfie with my collegues before tree planting](sam_1.jpeg)
-![Planting tree during the Mzaingira day](ian_pic.jpeg)
-![Photos](sam_2.jpeg)
+::: {layout="[[1,1], [1]]"}
+![Taking a Walk to the Tree planting site](group_1.jpeg)
 
+![Group Selfie with my Coleagues](sam_1.jpeg)
 
+![Me planting a Tree](ian_pic.jpeg)
+:::
 
 ## How You Can Participate
 
@@ -34,15 +37,3 @@ change. Mazingira Day brings communities together to take action through...
 - Reduce plastic use in your daily life
 - Educate others about environmental conservation
 ```
-
-## Step 2: Add your images
-
-Place your images (`mazingira1.jpg`, `mazingira2.jpg`, etc.) inside the same `posts/mazingira-day/` folder.
-
-## Folder structure should look like:
-```
-posts/
-  mazingira-day/
-    index.qmd
-    mazingira1.jpg
-    mazingira2.jpg
