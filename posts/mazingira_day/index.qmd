@@ -3,7 +3,7 @@ title: "Mazingira Day: Celebrating Kenya's Environment"
 author: "Ian Zablon Owuor"
 date: "2026-02-20"
 categories: [news, environment]
-image: "mazingira1.jpg"
+image: "cover_photo.jpeg"
 description: "Celebrating World Environment Day (Mazingira Day) and Kenya's commitment to environmental conservation."
 ---
 
