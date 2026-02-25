@@ -9,7 +9,7 @@ format:
 ---
 
 
-<iframe src="ian_zablon_acad_cv.pdf" height=100% width=100%>
+<iframe src="ian_zablon_cv_acad_v3.pdf" height=100% width=100%>
 
 
 ::: {.cv-section}

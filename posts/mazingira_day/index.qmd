@@ -9,9 +9,7 @@ description: "Celebrating World Environment Day (Mazingira Day) and Kenya's comm
 
 ## What is Mazingira Day?
 
-Mazingira Day, celebrated every **October 10th**, coincides with World Environment 
-Day. In Kenya, it is a national holiday dedicated to environmental conservation, 
-tree planting, and raising awareness about our natural heritage.
+Mazingira Day, celebrated every **October 10th**, coincides with World Environment Day. In Kenya, it is a national holiday dedicated to environmental conservation, tree planting, and raising awareness about our natural heritage.
 
 On **October 10th, 2025**, PBORA partnered with **Hatch Technologies**, a local environmental NGO, to host a full-day Mazingira Day celebration that brought together community members, professionals, and youth volunteers. The event kicked off with an inspiring opening ceremony where representatives from both organizations spoke on the urgency of environmental conservation in Kenya, followed by a large-scale tree planting drive where participants planted over 150 indigenous seedlings — including Mukau, Croton, and Acacia — across a designated green belt. In the afternoon, teams fanned out across the neighborhood for a community clean-up exercise. The day closed with an environmental education forum featuring talks on climate change, citizen science, and sustainable living. It was a powerful reminder that lasting environmental change happens when science, technology, and community come together — and PBORA and Hatch Technologies proved exactly that.
 
@@ -19,8 +17,7 @@ On **October 10th, 2025**, PBORA partnered with **Hatch Technologies**, a local 
 
 ## Why It Matters
 
-Kenya's environment faces threats from deforestation, pollution, and climate 
-change. Mazingira Day brings communities together to take action through activities like planting trees, cleaning the environment by picking garbage and disponsing them at the desinated places.
+Kenya's environment faces threats from deforestation, pollution, and climate change. Mazingira Day brings communities together to take action through activities like planting trees, cleaning the environment by picking garbage and disponsing them at the desinated places.
 
 ::: {layout="[[1,1], [1]]"}
 ![Taking a Walk to the Tree planting site](group_1.jpeg)
@@ -32,8 +29,7 @@ change. Mazingira Day brings communities together to take action through activit
 
 ## How You Can Participate
 
-- Plant a tree in your compound or local park
-- Join a community clean-up drive
-- Reduce plastic use in your daily life
-- Educate others about environmental conservation
-```
+-   Plant a tree in your compound or local park
+-   Join a community clean-up drive
+-   Reduce plastic use in your daily life
+-   Educate others about environmental conservation \`\`\`
