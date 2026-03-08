@@ -1,6 +1,6 @@
 ---
-title: "BSc. Industrial Chemistry Certificate"
-subtitle: "Awarded on 20th August 2021"
+title: "Certificates"
+subtitle: "Academic and Professional Certifications"
 page-layout: full
 css: styles.css
 format:
@@ -8,10 +8,16 @@ format:
     self-contained: true
 ---
 
-<iframe src="ian_zablon.cert.pdf" height=100% width=100%>
+## BSc. Industrial Chemistry Certificate
+**Awarded on 20th August 2021**
 
-::: cv-section
-### Education
+<iframe src="ian_zablon.cert.pdf" width="100%" height="600px">
+</iframe>
 
-...
-:::
+---
+
+## GRAPH Courses RBB Certificate
+**Global Research on Public Health and Analysis**
+
+<iframe src="13091_Ian_Zablon_GRAPH_Courses_RBB_Certificate.pdf" width="100%" height="600px">
+</iframe>
