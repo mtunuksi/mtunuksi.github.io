@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Ian Zablon Owuor"
+  google-analytics: "G-RN8VF8Z9EW"
   navbar:
     left:
       - text: "Home"
