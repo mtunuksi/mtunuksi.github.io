@@ -53,7 +53,7 @@
     "href": "portfolio.html",
     "title": "My Portfolio",
     "section": "",
-    "text": "Mazingira Day: Celebrating Kenya’s Environment\n\n\n\n\n\n\nnews\n\n\nenvironment\n\n\n\nCelebrating World Environment Day (Mazingira Day) and Kenya’s commitment to environmental conservation.\n\n\n\n\n\nFeb 20, 2026\n\n\nIan Zablon Owuor\n\n\n\n\n\n\n\n\n\n\n\n\nFertility rate trends Dashboard for Brazil, China and India\n\n\n\n\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nJun 23, 2025\n\n\nIan Zablon Owuor\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome to the Life Expectancy Dashboard using Quarto-Markdown!\n\n\n\n\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nJun 17, 2025\n\n\nIan Zablon Owuor\n\n\n\n\n\n\n\n\n\n\n\n\nQuality of Red Wine Prediction using R\n\n\n\n\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nFeb 17, 2025\n\n\nIan Zablon Owuor\n\n\n\n\n\n\n\n\n\n\n\n\nEffect of Government policy on the Nigerian population growth Analysis Using R\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nDec 10, 2024\n\n\nIan Zablon Owuor\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome to the 2018 Kenya Demographic Health Survey Analysis\n\n\n\n\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nSep 28, 2024\n\n\nIan Zablon Owuor\n\n\n\n\n\n\n\n\n\n\n\n\nDetermination of Sodium Metabisulfite preservative levels in Meat and Meat products in Kakamega Town using Ultraviolet-Visible method and the Monier-williams Experiment\n\n\n\n\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nJun 15, 2024\n\n\nIan Zablon Owuor\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nMay 29, 2024\n\n\nIan Zablon Owuor\n\n\n\n\n\n\nNo matching items"
+    "text": "Go Green With Baraka: A Young Environmentalist’s Big Mission\n\n\n\n\n\n\nevents\n\n\nenvironment\n\n\ncommunity\n\n\n\nAttended the launch of Go Green With Baraka — an inspiring initiative by an 11-year-old who has already planted 8,900 trees.\n\n\n\n\n\nMar 20, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nMazingira Day: Celebrating Kenya’s Environment\n\n\n\n\n\n\nnews\n\n\nenvironment\n\n\n\nCelebrating World Environment Day (Mazingira Day) and Kenya’s commitment to environmental conservation.\n\n\n\n\n\nFeb 20, 2026\n\n\nIan Zablon Owuor\n\n\n\n\n\n\n\n\n\n\n\n\nFertility rate trends Dashboard for Brazil, China and India\n\n\n\n\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nJun 23, 2025\n\n\nIan Zablon Owuor\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome to the Life Expectancy Dashboard using Quarto-Markdown!\n\n\n\n\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nJun 17, 2025\n\n\nIan Zablon Owuor\n\n\n\n\n\n\n\n\n\n\n\n\nQuality of Red Wine Prediction using R\n\n\n\n\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nFeb 17, 2025\n\n\nIan Zablon Owuor\n\n\n\n\n\n\n\n\n\n\n\n\nEffect of Government policy on the Nigerian population growth Analysis Using R\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nDec 10, 2024\n\n\nIan Zablon Owuor\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome to the 2018 Kenya Demographic Health Survey Analysis\n\n\n\n\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nSep 28, 2024\n\n\nIan Zablon Owuor\n\n\n\n\n\n\n\n\n\n\n\n\nDetermination of Sodium Metabisulfite preservative levels in Meat and Meat products in Kakamega Town using Ultraviolet-Visible method and the Monier-williams Experiment\n\n\n\n\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nJun 15, 2024\n\n\nIan Zablon Owuor\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nMay 29, 2024\n\n\nIan Zablon Owuor\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "certificates.html",
@@ -131,5 +131,75 @@
     "title": "Welcome To My Blog",
     "section": "",
     "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "go_green_with_baraka.html",
+    "href": "go_green_with_baraka.html",
+    "title": "Go Green With Baraka: A Young Environmentalist’s Big Mission",
+    "section": "",
+    "text": "Today I had the privilege of attending the official launch of Go Green With Baraka, one of the most inspiring initiatives I have come across in a long time — and it is being led by an 11-year-old."
+  },
+  {
+    "objectID": "go_green_with_baraka.html#meet-baraka",
+    "href": "go_green_with_baraka.html#meet-baraka",
+    "title": "Go Green With Baraka: A Young Environmentalist’s Big Mission",
+    "section": "Meet Baraka",
+    "text": "Meet Baraka\nBaraka is an 11-year-old environmental advocate who has already planted 8,900 trees. Let that number sink in. While most of us talk about climate action, Baraka has been out in the field, quite literally, getting his hands in the soil and making a measurable difference for Kenya’s environment.\nHis initiative, Go Green With Baraka, is built around a simple but powerful idea: that young people can — and should — lead the charge in protecting our planet. Baraka even authored a children’s book, Go Green With Baraka, to inspire other kids to plant trees and take care of the environment around them."
+  },
+  {
+    "objectID": "go_green_with_baraka.html#the-launch",
+    "href": "go_green_with_baraka.html#the-launch",
+    "title": "Go Green With Baraka: A Young Environmentalist’s Big Mission",
+    "section": "The Launch",
+    "text": "The Launch\nThe event was warm, energetic, and full of hope. The backdrop said it all — a lush green forest scene, a reminder of what we are fighting to preserve and restore. There was a real sense that something meaningful was beginning, not just a campaign, but a movement rooted in youthful conviction.\nIt was humbling to be in a room where the keynote speaker hasn’t even hit secondary school yet, and yet carries the moral weight of someone who has already done more for the environment than most adults ever will."
+  },
+  {
+    "objectID": "go_green_with_baraka.html#why-this-matters",
+    "href": "go_green_with_baraka.html#why-this-matters",
+    "title": "Go Green With Baraka: A Young Environmentalist’s Big Mission",
+    "section": "Why This Matters",
+    "text": "Why This Matters\nKenya is facing real and urgent environmental challenges — deforestation, erratic rainfall, and land degradation. Every tree planted is a small act of resistance against these forces. Baraka’s work is a reminder that meaningful climate action doesn’t require waiting for governments or corporations to move first. It starts with one person, one seedling, one community at a time.\nIf an 11-year-old can plant nearly 9,000 trees, what is our excuse?"
+  },
+  {
+    "objectID": "go_green_with_baraka.html#get-involved",
+    "href": "go_green_with_baraka.html#get-involved",
+    "title": "Go Green With Baraka: A Young Environmentalist’s Big Mission",
+    "section": "Get Involved",
+    "text": "Get Involved\nIf you want to follow Baraka’s journey, support the initiative, or find out how to get involved in tree planting efforts, keep an eye out for Go Green With Baraka — because this is only the beginning.\nHere’s to a greener Kenya. 🌱"
+  },
+  {
+    "objectID": "posts/go green with baraka/index.html",
+    "href": "posts/go green with baraka/index.html",
+    "title": "Go Green With Baraka: A Young Environmentalist’s Big Mission",
+    "section": "",
+    "text": "Today I had the privilege of attending the official launch of Go Green With Baraka, one of the most inspiring initiatives I have come across in a long time — and it is being led by an 11-year-old."
+  },
+  {
+    "objectID": "posts/go green with baraka/index.html#meet-baraka",
+    "href": "posts/go green with baraka/index.html#meet-baraka",
+    "title": "Go Green With Baraka: A Young Environmentalist’s Big Mission",
+    "section": "Meet Baraka",
+    "text": "Meet Baraka\nBaraka is an 11-year-old environmental advocate who has already planted 8,900 trees. Let that number sink in. While most of us talk about climate action, Baraka has been out in the field, quite literally, getting his hands in the soil and making a measurable difference for Kenya’s environment.\nHis initiative, Go Green With Baraka, is built around a simple but powerful idea: that young people can — and should — lead the charge in protecting our planet. Baraka even authored a children’s book, Go Green With Baraka, to inspire other kids to plant trees and take care of the environment around them."
+  },
+  {
+    "objectID": "posts/go green with baraka/index.html#the-launch",
+    "href": "posts/go green with baraka/index.html#the-launch",
+    "title": "Go Green With Baraka: A Young Environmentalist’s Big Mission",
+    "section": "The Launch",
+    "text": "The Launch\nThe event was warm, energetic, and full of hope. The backdrop said it all — a lush green forest scene, a reminder of what we are fighting to preserve and restore. There was a real sense that something meaningful was beginning, not just a campaign, but a movement rooted in youthful conviction.\nIt was humbling to be in a room where the keynote speaker hasn’t even hit secondary school yet, and yet carries the moral weight of someone who has already done more for the environment than most adults ever will."
+  },
+  {
+    "objectID": "posts/go green with baraka/index.html#why-this-matters",
+    "href": "posts/go green with baraka/index.html#why-this-matters",
+    "title": "Go Green With Baraka: A Young Environmentalist’s Big Mission",
+    "section": "Why This Matters",
+    "text": "Why This Matters\nKenya is facing real and urgent environmental challenges — deforestation, erratic rainfall, and land degradation. Every tree planted is a small act of resistance against these forces. Baraka’s work is a reminder that meaningful climate action doesn’t require waiting for governments or corporations to move first. It starts with one person, one seedling, one community at a time.\nIf an 11-year-old can plant nearly 9,000 trees, what is our excuse?"
+  },
+  {
+    "objectID": "posts/go green with baraka/index.html#get-involved",
+    "href": "posts/go green with baraka/index.html#get-involved",
+    "title": "Go Green With Baraka: A Young Environmentalist’s Big Mission",
+    "section": "Get Involved",
+    "text": "Get Involved\nIf you want to follow Baraka’s journey, support the initiative, or find out how to get involved in tree planting efforts, keep an eye out for Go Green With Baraka — because this is only the beginning.\nHere’s to a greener Kenya. 🌱"
   }
 ]
