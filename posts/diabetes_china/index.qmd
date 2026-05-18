@@ -1,0 +1,11 @@
+---
+title: "Diabetes in china"
+author: "Ian Zablon Owuor"
+date: "2026-05-18"
+categories: [analysis]
+image: "diab_china_pic.jpg"
+---
+
+Diabetes in China: Cohort Exploration & Glycaemic Risk Modelling
+R Epidemiology Public health Regression Tidyverse
+China carries one of the world's largest diabetes burdens. This project asks a deceptively simple question: if you measure someone's fasting blood glucose and body weight today, how well does that predict where their glucose will be years from now? Using a 200-participant multi-site cohort dataset, I explored that trajectory with tidyverse EDA and linear regression in R.[here](https://drive.google.com/file/d/1AhGdRaxdNdiaPi-JbJ0m-qbGA0FVs1C7/view){target="_blank"}
