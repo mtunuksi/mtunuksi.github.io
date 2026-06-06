@@ -21,50 +21,13 @@ website:
         href: https://github.com/mtunuksi
       - icon: twitter
         href: https://x.com/mtunuksi
+
 format:
   html:
     theme:
       light: flatly
       dark: darkly
     css: styles.css
+    include-after-body: botpress.html
 
 editor: visual
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
